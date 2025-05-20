@@ -4,3 +4,4 @@
 2025-05-17 Added cataract notes
 2025-05-18 Added diabetes in pregnancy notes
 2025-05-19 Added coeliac disease
+2025-05-20 Added pericardial diseases
