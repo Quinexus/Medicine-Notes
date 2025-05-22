@@ -6,3 +6,5 @@
 2025-05-19 Added coeliac disease
 2025-05-20 Added pericardial diseases
 2025-05-21 Added osteoarthritis
+2025-05-22 Added rheumatoid arthritis
+
