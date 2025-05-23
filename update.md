@@ -7,4 +7,4 @@
 2025-05-20 Added pericardial diseases
 2025-05-21 Added osteoarthritis
 2025-05-22 Added rheumatoid arthritis
-
+2025-05-23 Added addison's disease
