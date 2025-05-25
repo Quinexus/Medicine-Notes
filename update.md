@@ -9,3 +9,4 @@
 2025-05-22 Added rheumatoid arthritis
 2025-05-23 Added addison's disease
 2025-05-24 Added nephrotic syndrome
+2025-05-25 Added iron deficiency anaemia
