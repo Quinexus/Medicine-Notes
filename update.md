@@ -11,3 +11,4 @@
 2025-05-24 Added nephrotic syndrome
 2025-05-25 Added iron deficiency anaemia
 2025-05-26 Added psoriasis
+2025-05-27 Added subdural haematoma
