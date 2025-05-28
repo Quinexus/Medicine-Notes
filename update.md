@@ -12,3 +12,4 @@
 2025-05-25 Added iron deficiency anaemia
 2025-05-26 Added psoriasis
 2025-05-27 Added subdural haematoma
+2025-05-28 Added anterior uveitis
