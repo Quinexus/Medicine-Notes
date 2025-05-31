@@ -15,3 +15,4 @@
 2025-05-28 Added anterior uveitis
 2025-05-29 Added obstructive sleep apnoea
 2025-05-30 Added pulmonary embolism
+2025-05-31 Added bronchiectasis
