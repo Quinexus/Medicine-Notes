@@ -18,3 +18,4 @@
 2025-05-31 Added bronchiectasis
 2025-06-01 Added sarcoidosis and septic arthritis
 2025-06-02 Added angina and hyperaldosteronism
+2025-06-02 Added acromegaly
