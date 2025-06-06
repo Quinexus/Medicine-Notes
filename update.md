@@ -21,3 +21,4 @@
 2025-06-03 Added acromegaly
 2025-06-04 Added pleural effusions and acoustic neuroma
 2025-06-05 Added migraine and urticaria
+2025-06-06 Added infective endocarditis and chronic pancreatitis
