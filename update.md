@@ -23,3 +23,4 @@
 2025-06-05 Added migraine and urticaria
 2025-06-06 Added infective endocarditis and chronic pancreatitis
 2025-06-07 Added depression
+2025-06-08 Added acne vulgaris and rosacea
