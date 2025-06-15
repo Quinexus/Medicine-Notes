@@ -1,5 +1,5 @@
-2025-05-14 Added Heart Failure notes
-2025-05-15 Edited HF notes, added Pneumothorax notes
+2025-05-14 Added heart failure notes
+2025-05-15 Edited HF notes, added pneumothorax notes
 2025-05-16 Added hyperthyroidism notes
 2025-05-17 Added cataract notes
 2025-05-18 Added diabetes in pregnancy notes
@@ -25,3 +25,10 @@
 2025-06-07 Added depression
 2025-06-08 Added acne vulgaris and rosacea
 2025-06-09 Added multiple sclerosis and IBS
+2025-06-10 Added venous ulcers 
+From now on no longer regularly committing to github
+2025-06-11 Added extradural haematoma and pre-eclampsia
+2025-06-12 Added episcleritis and scleritis
+2025-06-13 Added ankylosing spondylitis and ectopic pregnancy
+2025-06-14 Added chronic asthma
+2025-06-15 Added meningitis and encephalitis
