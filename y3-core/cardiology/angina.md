@@ -4,20 +4,25 @@ domain: medicine
 speciality: cardiovascular
 type: condition
 date-created: 2025-06-02
-date-edited: 2025-06-02
+date-edited: 2025-06-18
 tags: [medicine, cardiovascular, condition]
 ---
 
 # Angina Pectoris
 symptomatic reversible myocaridal ischaemia
 
+
 ## Background
+pathophysiology:
+- atherosclerosis affecting coronary arteries, narrowing lumn and reducing flow to myocardium
+- high demand (eg exercise) - insufficient supply
+
 - other precipitants: emotion, cold weather, and heavy meals
 - causes: atheroma, rarely - anaemia; cornary artery spasms; AS; tachyarrhythmia; HCM; arteritis/small vessel disease (microvascular angina/cardiac syndrome x)
 
 types
-- stable angina: induced by effort, relieved by rest
-- unstable angina (crescendo angina): angina of increasing frequency or severity; occurs on minimal exertion or at rest; associated w/ inc risk of MI
+- stable angina: induced by effort, relieved by rest/nitrates
+- unstable angina (crescendo angina): angina of increasing frequency or severity; occurs on minimal exertion or at rest; associated w/ inc risk of MI; type of ACS
 - decubitus angina: precipitated by lying flat
 - variant (prinzmetal)/vasospastic angina: caused by coronary artery spasm
 
@@ -39,8 +44,12 @@ features that make angina less likely
 
 ## Diagnosis
 - ECG: usually normal, may show ST depression; flat or inverted T waves; signs of past MI
-- bloods: FBC, U+E, TFTs, lipids, HbA1c
+- bloods: FBC (anaemia), U+E (needed before ACEi and other meds), TFTs (hypo/hyper), LFTs (before statins), lipids, HbA1c
 - consider echo and CXR
+
+- cardiac stress testing: exercise or meds (dobutamine) -> ECG, echo, MRI, perfusion scan (nuclear)
+- CT coronary angio
+- invasive coronary angio in cath lab via brachial/femoral -> aorta -> coronary arteries using XRays + contrast (gold standard)
 
 further investigations
 - for IHD
@@ -89,4 +98,26 @@ revascularisation: consider when optimal medical therapy proves inadequate or if
 - CABG
     - pts undergoing CABG less likely to need repeat revascularisation and those w/ multivessel disease can expect better outcomes
     - recovery is slower
+    - midline sternotomy incision
+    - graft from: saphenous vein (inner leg), internal thoracic artery, or radial artery
 
+PCI vs CABG: PCI faster recovery, lower stroke rates, higher rates of needing repeat revasc
+
+# Revision!
+
+## Mneumonics
+RAMPS (5 principals of management):
+- Refer to cardiology
+- Advise about diagnosis, management, and when to call ambulance
+- Medical treatment
+- Procedural/surgical interventions
+- Secondary prevention
+
+Secondary prevention 4As:
+- Aspirin
+- Atorvastatin
+- ACE-inhibitor (DM, HTN, CKD or HF)
+- Already on aa for symptoms
+
+## Links
+https://zerotofinals.com/medicine/cardiology/stableangina/

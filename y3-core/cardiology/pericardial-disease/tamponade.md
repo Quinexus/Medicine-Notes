@@ -4,12 +4,13 @@ domain: medicine
 speciality: cardiology
 type: condition
 date-created: 2025-05-20
-date-edited: 2025-05-20
-tags: [medicine, cardiology, condition, pericardial disease]
+date-edited: 2025-06-18
+tags: [medicine, cardiology, condition, pericardial disease, emergency]
 ---
 
 # Cardiac Tamponade
-Pericardial effusion -> raising intrapericardial pressure -> dec ventricular filling -> dec CO -> !! cardiac arrest
+Pericardial effusion -> raising intrapericardial pressure -> dec ventricular filling (diastole) -> dec CO (during systole) -> !! cardiac arrest
+
 
 ## Background
 

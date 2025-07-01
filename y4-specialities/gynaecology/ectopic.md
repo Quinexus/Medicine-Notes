@@ -1,5 +1,5 @@
 ---
-title: Anterior Uveitis
+title: Ectopic Pregnancy
 domain: specialities
 speciality: gynaecology
 type: condition

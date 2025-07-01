@@ -4,12 +4,13 @@ domain: medicine
 system: cardiology
 type: condition
 date-created: 2025-05-20
-date-edited: 2025-05-20
+date-edited: 2025-06-18
 tags: [medicine, cardiology, condition, pericardial disease]
 ---
 
 # Pericardial effusion
 accumulation of fluid (~10-50ml) in pericardial sac
+diffcult of heart to expand on diastole
 
 ## Background
 - pericarditis

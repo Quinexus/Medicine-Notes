@@ -4,7 +4,7 @@ domain: medicine
 speciality: cardiology
 type: condition
 date-created: 2025-05-14
-date-edited: 2025-05-15
+date-edited: 2025-06-18
 tags: [medicine, cardiology, condition]
 ---
 
@@ -16,6 +16,7 @@ Failure to pump blood around the body and meet the metabolic demands of the hear
 - Poor prognosis ~25-50% die w/in 5yrs diagnosis, w/ admission -> 75%! Be realistic!
 
 Classification
+EF 50%+ = normal
 - HFrEF: pump failure -> dec CO (systolic) -> eccentric (dilated not thickened) remodelling, causes: MI, cardiomyopathy
 - HFpEF: relaxation failure -> increased pressures (diastolic) -> concentric remodelling/hypertrophy often, causes: HTN, CAD, CKD, obes, infiltrative, constrictive pericarditis
 
@@ -37,6 +38,21 @@ symptoms relate to side of heart (r -> body, l -> lung) and fluid overload
 - high-output: rarer, normal/increased output, failure to meet metabolic needs
     - causes: anaemia, pregnancy, hyperthy, paget's, AVM, beriberi
 
+signs
+- tachycardia
+- tachypnoea
+- HTN
+- murmurs
+- 3rd heart sound
+- bilateral basal crackles
+- raised JVP
+- peripheral oedema
+
+PND
+- fluid in lungs -> breathlessness, stand up fluid to base and breath more effectively
+- in sleep resp centre less responsive -> RR and effort do not respond to reduced sats
+- less adrenaline in sleep -> relaxed myocardium = dec CO
+
 ## Diagnosis
 Clinical
 - symptoms + evidence of dysfunction at rest
@@ -56,6 +72,7 @@ ECG for cause, Echo for cause and diagnosis. Can use CiMR or Endomyocardial biop
 - medication
     - loop: symptoms + ?mortality benefit (+thiazide for support)
     - ACE-i/ARB: all pts, symptoms + mortality benefit
+      - avoid ACEi in valvular heart disease unless adviced by specialist
     - ARNI (sacubitril/valsartan): vasodilation, naturesis & diuresis, replaces ACE-i/ARb in NYHA II-III+, morbidity/mortality benefit
     - beta-blockers (cardioselective): mortality benefit in systolic only, start low and go slow once euvolaemic, beneficial in decompensation
     - MRA: mortality benefit, used in optimised symptomatic pts + post-MI w/ LVSD
@@ -63,6 +80,12 @@ ECG for cause, Echo for cause and diagnosis. Can use CiMR or Endomyocardial biop
     - SGLT2i: mortality benefit
     - ivabradine: reduces hospitalisations
     - digoxin: reduces hospitalisations, rate/symptom control in pts w/ AF
+    - monitor renal functions w/ medication
+- surgery
+  - valve surgeries
+  - implantable cardioverter defibrillators
+  - cardiac resynchronisation therapy
+  - heart transplant
 
 HFpEF: contributing factors control, volume overload w/ diuretics, avoid bb
 
@@ -71,3 +94,19 @@ HFpEF: contributing factors control, volume overload w/ diuretics, avoid bb
 - cardiac rehab, assist device or transplant
 
 palliation - treat/prevent comorbidities, nutrition, GP support, symptom & pain management
+
+# Revision
+
+## Mneumonic
+RAMPS (5 principals of management):
+- Refer to cardiology
+- Advise about condition
+- Medical treatment
+- Procedural/surgical interventions
+- Specialist HF MDT input
+
+medical treatment ABAL
+- ACE-i/ARB 
+- BB
+- Aldosterone antagonist if not controlled w/ A & B
+- Loops

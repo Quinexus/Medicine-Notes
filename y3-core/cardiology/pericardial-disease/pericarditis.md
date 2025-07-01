@@ -4,7 +4,7 @@ domain: medicine
 speciality: cardiology
 type: conditionfor 
 date-created: 2025-05-20
-date-edited: 2025-05-20
+date-edited: 2025-06-18
 tags: [medicine, cardiology, condition, pericardial diseases]
 ---
 
@@ -29,10 +29,10 @@ inflammation of pericardium
     - treat: aspirin, NSAIDs, steroids
 
 ## Presentation
-- central CP worse on inspiration/lying flat +/- relief on sitting forward
+- central/anterior CP worse on inspiration(pleuritic)/lying flat +/- relief on sitting forward
 - signs: pericardial friction rub
-- fever
-
+- low-grade fever
+  
 ## Diagnosis
 - ECG: concave (saddle-shaped) STE & PR depression but can be normal/non-specific (10%)
 - bloods: FBC, U+E, cardiac enzymes (raised trop)

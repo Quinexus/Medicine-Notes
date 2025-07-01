@@ -4,7 +4,7 @@ domain: medicine
 speciality: cardiology
 type: condition
 date-created: 2025-06-06
-date-edited: 2025-06-06
+date-edited: 2025-06-18
 tags: [medicine, cardiology, condition]
 ---
 
@@ -58,6 +58,9 @@ causes
   - abscess in relevant organ
   - in skin: janeway lesions = painless palmar or plantar macules
   - janeway + osler = pathgnomonic
+- other changes in longstanding disease
+  - splenomegaly
+  - finger clubbing
 
 ## Diagnosis
 
@@ -103,8 +106,16 @@ how to diagnose: 2 major or 1 major and 3 minor or all 5 minors
   - enterococci: amox + gent; if pen-allergic: vanc + gent for 4wks (6wks prosthetic valve); review need for gent after 2wks
   - HACEK: ceft for 4wks w/ native valve or 6 wks w/ prosthetic
   - fungal: candida - amphotericin, aspergillus - voriconazole
+- surgery for: HF valve pathology, large vegetations/abscesses, unresponsive to Abx
 
 prognosis: 50% need surgery; 20% in-hospital mortality (staphs 30%, bowel bacterial 14%, streps 6%); 15% recurrence at 2 years
+
+complication
+- high mortality rate
+- heart valve damage -> regurg
+- HF
+- infective/non-infective emboli (causing abscesses, strokes, splenic infarction)
+- glomerulonephritis -> renal impairment
 
 prevention - Abx prophylaxis
 - recommended for those at risk of IE undergoing invasive procedures = 

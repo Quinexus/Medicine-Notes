@@ -32,3 +32,16 @@ From now on no longer regularly committing to github
 2025-06-13 Added ankylosing spondylitis and ectopic pregnancy
 2025-06-14 Added chronic asthma
 2025-06-15 Added meningitis and encephalitis
+2025-06-16 Added liver failure and cirrhosis
+2025-06-17 Added hypothyroidism
+2025-06-18 Edited cardiology notes using ZeroToFinals
+2025-06-19 Added acute glaucoma
+2025-06-22 Added anaemia of chronic disease and sideroblastic anaemia
+2025-06-23 Added fibroids
+2025-06-24 Added narrow-complex tachycardia and primary biliary cirrhosis
+2025-06-26 Added primary sclerosing cholangitis and autoimmune cholangitis
+2025-06-27 Added phaeochromocytoma and raised intracranial pressure
+2025-06-28 Added alzeheimer's disease
+2025-06-29 Added hypertension
+2025-06-30 Added AML and ALL
+2025-07-01 Added CML and CLL
