@@ -45,3 +45,7 @@ From now on no longer regularly committing to github
 2025-06-29 Added hypertension
 2025-06-30 Added AML and ALL
 2025-07-01 Added CML and CLL
+2025-07-04 Added endometriosis
+2025-07-05 Added subfertility and male-subfertility
+2025-07-06 Added hodgkin's lymphoma and CKD (background, presentation and diagnosis)
+2025-07-07 Added CKD (management) and NHL
