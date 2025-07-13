@@ -49,3 +49,6 @@ From now on no longer regularly committing to github
 2025-07-05 Added subfertility and male-subfertility
 2025-07-06 Added hodgkin's lymphoma and CKD (background, presentation and diagnosis)
 2025-07-07 Added CKD (management) and NHL
+2025-07-09 Added myeloproliferative disorders
+2025-07-11 Added AF and respiratory failure
+2025-07-12 Added idiopathic pulmonary fibrosis
