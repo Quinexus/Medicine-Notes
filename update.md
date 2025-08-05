@@ -52,3 +52,10 @@ From now on no longer regularly committing to github
 2025-07-09 Added myeloproliferative disorders
 2025-07-11 Added AF and respiratory failure
 2025-07-12 Added idiopathic pulmonary fibrosis
+2025-07-14 Added hypoparathyroidism
+2025-07-16 Added mitral valve diseases
+2025-07-18 Added aortic stenosis
+2025-07-19 Added aortic regurgitation
+2025-07-21 Added idiopathic intracranial hypertension and delirium
+2025-07-23 Added conjunctivitis
+2025-08-05 Added tinnitus
