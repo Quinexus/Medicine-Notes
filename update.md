@@ -59,3 +59,4 @@ From now on no longer regularly committing to github
 2025-07-21 Added idiopathic intracranial hypertension and delirium
 2025-07-23 Added conjunctivitis
 2025-08-05 Added tinnitus
+2025-08-31 Added lupus
