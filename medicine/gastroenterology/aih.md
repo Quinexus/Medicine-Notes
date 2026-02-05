@@ -9,7 +9,6 @@ tags: [medicine, gastroenterology, condition]
 ---
 
 # Autoimmune Hepatitis
-inflammatory liver disease of unknown cause characterised by abnormal T-cell function and autoantibodies against hepatocyte surface antigens
 
 ## Background
 classification by autoantibodies
